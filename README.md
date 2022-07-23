@@ -16,8 +16,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DevLOUZIN&label=Profile%20views&color=919191&style=flat-square" alt="DevLOUZIN" /> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevLOUZIN&theme=dark" alt="DevLOUZIN" /></p>
 
-<h2> Discord </h2>
-<a href=" https://discordapp.com/channels/@me/LouzinDS#4412/"> <img src="https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=discord&logoColor=blue" alt="Discord"></a>
 
 <h2>Development Tools</h2> 
 
@@ -66,9 +64,9 @@
 ## 📊 Github stats
 <p>
     <a align="center" href="https://github-readme-stats.vercel.app/api?username=DevLOUZIN&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"><img alt="DevLOUZIN Github Stats"
-                    src="https://github-readme-stats.vercel.app/api?username=DevLOUZIN&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+                    src="https://github-readme-stats.vercel.app/api?username=DevLOUZIN&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=0000FF&icon_color=F8D866" /></a>
   <a align="center" href="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLOUZIN&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
-    <img alt="DevLOUZIN's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLOUZIN&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+    <img alt="DevLOUZIN's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLOUZIN&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=0000FF&icon_color=F8D866" /></a>
 </p>
 
 <p>
@@ -76,5 +74,4 @@
     <img src="https://github-profile-trophy.vercel.app/?username=DevLOUZIN&theme=monokai&column=8&no-frame=true&no-bg=true">
   </a>
 </p>
-
 
