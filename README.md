@@ -13,26 +13,6 @@
 | C                | 2 months| Studyng                      |
 | C++              | 2 months| Studyng                      |
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DevLOUZIN&label=Profile%20views&color=919191&style=flat-square" alt="DevLOUZIN" /> </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevLOUZIN&theme=dark" alt="DevLOUZIN" /></p>
-
-<h2> Discord </h2>
-<a href=" https://discordapp.com/channels/@me/LouzinDS#4412/"> <img src="https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=discord&logoColor=blue" alt="Discord"></a>
-
-<h2>Development Tools</h2> 
-
-<p>
-    <a href="#">
-        <img alt="GIT"
-             src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-    <a href="#">
-        <img alt="Visual Studio Code"
-             src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-    <a href="#">
-        <img alt="Sublime Texxt"
-             src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"></a>
-</p>
-
 ### 👨‍💻 Programming Languages
 
 <p>
@@ -76,3 +56,25 @@
     <img src="https://github-profile-trophy.vercel.app/?username=DevLOUZIN&theme=monokai&column=8&no-frame=true&no-bg=true">
   </a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DevLOUZIN&label=Profile%20views&color=919191&style=flat-square" alt="DevLOUZIN" /> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevLOUZIN&theme=dark" alt="DevLOUZIN" /></p>
+
+<h2> Discord </h2>
+<a href=" https://discordapp.com/channels/@me/LouzinDS#4412/"> <img src="https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=discord&logoColor=blue" alt="Discord"></a>
+
+<h2>Development Tools</h2> 
+
+<p>
+    <a href="#">
+        <img alt="GIT"
+             src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+    <a href="#">
+        <img alt="Visual Studio Code"
+             src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+    <a href="#">
+        <img alt="Sublime Texxt"
+             src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"></a>
+</p>
+
+
