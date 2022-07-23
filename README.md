@@ -2,7 +2,7 @@
 
 ##  Who i am?
 
- My name is Lorenzo i Have 16 years , better known as Louzin, I'm a Brazilian programmer passionate about reading documents and "Just let me code", I've been programming SA:MP servers for 1 year, and I'm currently studying C/C++, and also studying Systems Developer (SENAC -LOL)
+ My name is Lorenzo i Have 16 years , better known as Louzin, I'm a Brazilian programmer passionate about reading documents and "Just let me code", I've been programming SA:MP servers for 1 year, and I'm currently studying C/C++, and also studying Systems Developer (SENAC - RS)
 
 ## knowledge
 
