@@ -1,4 +1,4 @@
-<h1> Hello World I'm DevLOUZIN </h1>
+<h1> Hello World I'm LouzinDeev </h1>
 
 ##  Who i am?
 
@@ -13,8 +13,8 @@
 | C                | 2 months| Studyng                      |
 | C++              | 2 months| Studyng                      |
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DevLOUZIN&label=Profile%20views&color=919191&style=flat-square" alt="DevLOUZIN" /> </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevLOUZIN&theme=dark" alt="DevLOUZIN" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LouzinDeev&label=Profile%20views&color=919191&style=flat-square" alt="LouzinDeev" /> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LouzinDeev&theme=dark" alt="LouzinDeev" /></p>
 
 
 <h2>Development Tools</h2> 
@@ -63,15 +63,14 @@
 
 ## 📊 Github stats
 <p>
-    <a align="center" href="https://github-readme-stats.vercel.app/api?username=DevLOUZIN&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"><img alt="DevLOUZIN Github Stats"
-                    src="https://github-readme-stats.vercel.app/api?username=DevLOUZIN&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=0000FF&icon_color=F8D866" /></a>
-  <a align="center" href="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLOUZIN&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
-    <img alt="DevLOUZIN's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLOUZIN&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=0000FF&icon_color=F8D866" /></a>
+    <a align="center" href="https://github-readme-stats.vercel.app/api?username=LouzinDeev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"><img alt="LouzinDeev Github Stats"
+                    src="https://github-readme-stats.vercel.app/api?username=LouzinDeev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=0000FF&icon_color=F8D866" /></a>
+  <a align="center" href="https://github-readme-stats.vercel.app/api/top-langs/?username=LouzinDeev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
+    <img alt="LouzinDeev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouzinDeev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=0000FF&icon_color=F8D866" /></a>
 </p>
 
 <p>
   <a align="center" href="#">
-    <img src="https://github-profile-trophy.vercel.app/?username=DevLOUZIN&theme=monokai&column=8&no-frame=true&no-bg=true">
+    <img src="https://github-profile-trophy.vercel.app/?username=LouzinDeev&theme=monokai&column=8&no-frame=true&no-bg=true">
   </a>
 </p>
-
