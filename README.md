@@ -2,16 +2,9 @@
 
 ##  Who i am?
 
- My name is Lorenzo i Have 16 years , better known as Louzin, I'm a Brazilian programmer passionate about reading documents and "Just let me code", I've been programming SA:MP servers for 1 year, and I'm currently studying C/C++, and also studying Systems Developer (SENAC - RS)
-
-## knowledge
-
-| Language/Ambient | time  | Ability (MAX = 10)             |
-| -----------------| :----:| :-----:                        |
-| Pawn Language    | 7 months| 7   (constantly evolving )   |
-| SA:MP            | 1 year  | 8                            |
-| C                | 2 months| Studyng                      |
-| C++              | 2 months| Studyng                      |
+    My name is Lorenzo i Have 16 years , better known as Louzin, I'm a Brazilian programmer passionate about reading documents and "Just let me code", I've been programming SA:MP servers for 1 year, and now i'm programim some other
+    contents like Sockets, SA:MP Plugins, Console Aplications and some Database
+    Stuff
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LouzinDeev&label=Profile%20views&color=919191&style=flat-square" alt="LouzinDeev" /> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LouzinDeev&theme=dark" alt="LouzinDeev" /></p>
@@ -27,21 +20,16 @@
         <img alt="Visual Studio Code"
              src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
     <a href="#">
-        <img alt="Sublime Texxt"
-             src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"></a>
+        <img alt="Debian"
+             src="https://img.shields.io/badge/Debian-FFFFFF?style=for-the-badge&logo=debian&logoColor=red"></a>
+    <a href="#">
+        <img alt="MySQL-Workbanch"
+             src="https://img.shields.io/badge/MySQL Workbanch-FFFFFF?style=for-the-badge&logo=mysql&logoColor=blue"></a>
 </p>
 
 ### 👨‍💻 Programming Languages
 
 <p>
-    <a href="#">
-        <img alt="JavaScript"
-             src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-	</a>
-    <a href="#">
-        <img alt="Python"
-             src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-	</a>
     <a href="#">
         <img alt="C"
              src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -49,10 +37,6 @@
     <a href="#">
         <img alt="C++"
              src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-	</a>
-    <a href="#">
-        <img alt="Java"
-             src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 	</a>
     <a href="#">
         <img alt="SQL"
