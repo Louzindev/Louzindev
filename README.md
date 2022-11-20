@@ -21,7 +21,7 @@
              src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
     <a href="#">
         <img alt="Debian"
-             src="https://img.shields.io/badge/Debian-FFFFFF?style=for-the-badge&logo=debian&logoColor=red"></a>
+             src="https://img.shields.io/badge/Ubuntu-FFFFFF?style=for-the-badge&logo=ubuntu&logoColor=red"></a>
     <a href="#">
         <img alt="MySQL-Workbanch"
              src="https://img.shields.io/badge/MySQL Workbanch-FFFFFF?style=for-the-badge&logo=mysql&logoColor=blue"></a>
