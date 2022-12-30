@@ -1,11 +1,5 @@
 <h1> Hello World I'm LouzinDeev </h1>
 
-##  Who i am?
-
-    My name is Lorenzo i Have 16 years , better known as Louzin, I'm a Brazilian programmer passionate about reading documents and "Just let me code", I've been programming SA:MP servers for 1 year, and now i'm programim some other
-    contents like Networking, SA:MP Plugins, Console Aplications and some Database
-    Stuff
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LouzinDeev&label=Profile%20views&color=919191&style=flat-square" alt="LouzinDeev" /> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LouzinDeev&theme=dark" alt="LouzinDeev" /></p>
 
