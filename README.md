@@ -1,4 +1,4 @@
-<h1> Hello World I'm LouzinDeev </h1>
+<h1> Hello World I'm LouzinDeev, Technician in Systems Development and Database Administrator Senac RS ( 2 years ) </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LouzinDeev&label=Profile%20views&color=919191&style=flat-square" alt="LouzinDeev" /> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LouzinDeev&theme=dark" alt="LouzinDeev" /></p>
