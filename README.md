@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=415D8D&width=435&lines=Hello%2C+I'm+LouzinDeev+AKA+Louzin;Technician+in+Systems+Development;I+Love+C+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=415D8D&width=435&lines=Hello%2C+I'm+LouzinDeev+AKA+Louzin;Technician+in+Systems+Development;I+Love+C+)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LouzinDeev&label=Profile%20views&color=919191&style=flat-square" alt="LouzinDeev" /> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LouzinDeev&theme=dark" alt="LouzinDeev" /></p>
