@@ -1,7 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=415D8D&width=435&lines=Hello%2C+I'm+Krieger;Technician+in+Systems+Development;I+Love+C+)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LouzinDeev&label=Profile%20views&color=919191&style=flat-square" alt="LouzinDeev" /> </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LouzinDeev&theme=dark" alt="LouzinDeev" /></p>
+<h2> Accounts </h2>
+
+| Plataform | User             |
+| :-------- | :--------------- |
+| Discord   | Krieger0725#0069 |
+| NPM       | @devkrieger      |
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KriegerDev&label=Profile%20views&color=919191&style=flat-square" alt="KriegerDev" /> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KriegerDev&theme=dark" alt="KriegerDev" /></p>
 
 <h2>Development Tools</h2>
 
