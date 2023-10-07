@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=415D8D&width=435&lines=Hello%2C+I'm+Krieger;I+Love+C+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=415D8D&width=435&lines=Hello%2C+I'm+Krieger+(AKA+Louzin);I+Love+C+)](https://git.io/typing-svg)
 
 <h2> Accounts </h2>
 
