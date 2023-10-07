@@ -4,7 +4,7 @@
 
 | Plataform | User             |
 | :-------- | :--------------- |
-| Discord   | Krieger0725#0069 |
+| Discord   | kriegg07 |
 | NPM       | @devkrieger      |
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KriegerDev&label=Profile%20views&color=919191&style=flat-square" alt="KriegerDev" /> </p>
